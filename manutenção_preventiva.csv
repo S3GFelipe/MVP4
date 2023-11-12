@@ -1,4 +1,4 @@
-﻿UDI,ProductID,Qualidade,Temperaturadoar[°C],Temperaturadoprocesso[°C],VelocidadedeRotacao[rpm],Torque[Nm],Desgastedaferramenta[min],Saida,Tipodefalha
+﻿UDI,ProductID,Qualidade,TemperaturaDoAr[°C],TemperaturaDoProcesso[°C],VelocidadeDeRotacao[rpm],Torque[Nm],DesgasteDaFerramenta[min],Saida,TipoDefalha
 1,M14860,Media,24,95,1551,42.8,0,0,SemFalha
 2,L47181,Baixa,25,5,1408,46.3,3,0,SemFalha
 3,L47182,Baixa,24,95,1498,49.4,5,0,SemFalha
