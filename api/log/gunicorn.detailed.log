@@ -1,0 +1,25 @@
+[2023-12-05 21:15:30,192] INFO _log() L96   [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.15.185:5000 - call_trace=C:\Users\Felipe\Desktop\MVP4\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-05 21:15:30,194] INFO _log() L96   [33mPress CTRL+C to quit[0m - call_trace=C:\Users\Felipe\Desktop\MVP4\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-05 21:15:30,196] INFO _log() L96    * Restarting with stat - call_trace=C:\Users\Felipe\Desktop\MVP4\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-05 21:15:35,236] INFO _log() L96   127.0.0.1 - - [05/Dec/2023 21:15:35] "GET /equipamentos HTTP/1.1" 200 - - call_trace=C:\Users\Felipe\Desktop\MVP4\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-05 21:15:52,477] INFO _log() L96   127.0.0.1 - - [05/Dec/2023 21:15:52] "GET /equipamentos?nome=se HTTP/1.1" 200 - - call_trace=C:\Users\Felipe\Desktop\MVP4\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-05 21:15:53,018] INFO _log() L96   127.0.0.1 - - [05/Dec/2023 21:15:53] "POST /equipamento HTTP/1.1" 200 - - call_trace=C:\Users\Felipe\Desktop\MVP4\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-05 21:15:53,411] INFO _log() L96   127.0.0.1 - - [05/Dec/2023 21:15:53] "GET /equipamentos HTTP/1.1" 200 - - call_trace=C:\Users\Felipe\Desktop\MVP4\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-07 20:29:32,783] INFO _log() L96   [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.15.185:5000 - call_trace=C:\Users\Felipe\Desktop\MVP4\api\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-07 20:29:32,785] INFO _log() L96   [33mPress CTRL+C to quit[0m - call_trace=C:\Users\Felipe\Desktop\MVP4\api\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-07 20:29:39,303] INFO _log() L96   127.0.0.1 - - [07/Dec/2023 20:29:39] "GET /equipamentos HTTP/1.1" 200 - - call_trace=C:\Users\Felipe\Desktop\MVP4\api\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-07 20:30:29,157] INFO _log() L96   127.0.0.1 - - [07/Dec/2023 20:30:29] "GET /equipamentos?nome=A HTTP/1.1" 200 - - call_trace=C:\Users\Felipe\Desktop\MVP4\api\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-07 20:30:29,690] INFO _log() L96   127.0.0.1 - - [07/Dec/2023 20:30:29] "POST /equipamento HTTP/1.1" 200 - - call_trace=C:\Users\Felipe\Desktop\MVP4\api\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-07 20:30:30,144] INFO _log() L96   127.0.0.1 - - [07/Dec/2023 20:30:30] "GET /equipamentos HTTP/1.1" 200 - - call_trace=C:\Users\Felipe\Desktop\MVP4\api\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-07 20:32:08,633] INFO _log() L96   127.0.0.1 - - [07/Dec/2023 20:32:08] "GET /equipamentos?nome=B HTTP/1.1" 200 - - call_trace=C:\Users\Felipe\Desktop\MVP4\api\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-07 20:32:08,651] INFO _log() L96   127.0.0.1 - - [07/Dec/2023 20:32:08] "POST /equipamento HTTP/1.1" 200 - - call_trace=C:\Users\Felipe\Desktop\MVP4\api\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-07 20:32:09,439] INFO _log() L96   127.0.0.1 - - [07/Dec/2023 20:32:09] "GET /equipamentos HTTP/1.1" 200 - - call_trace=C:\Users\Felipe\Desktop\MVP4\api\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-07 20:32:56,670] INFO _log() L96   127.0.0.1 - - [07/Dec/2023 20:32:56] "GET /equipamentos?nome=D HTTP/1.1" 200 - - call_trace=C:\Users\Felipe\Desktop\MVP4\api\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-07 20:32:56,687] INFO _log() L96   127.0.0.1 - - [07/Dec/2023 20:32:56] "POST /equipamento HTTP/1.1" 200 - - call_trace=C:\Users\Felipe\Desktop\MVP4\api\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-07 20:32:57,757] INFO _log() L96   127.0.0.1 - - [07/Dec/2023 20:32:57] "GET /equipamentos HTTP/1.1" 200 - - call_trace=C:\Users\Felipe\Desktop\MVP4\api\env\Lib\site-packages\werkzeug\_internal.py L96  

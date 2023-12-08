@@ -1,0 +1,51 @@
+[2023-12-02 12:49:49,989] INFO _log() L96   127.0.0.1 - - [02/Dec/2023 12:49:49] "DELETE /equipamento?name=A HTTP/1.1" 200 - - call_trace=C:\Users\Felipe\Desktop\MVP4\api\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-02 12:49:55,940] WARNING get_equipamentos() L50   Não há equipamentos cadastrados na base :/ - call_trace=C:\Users\Felipe\Desktop\MVP4\api\app.py L50  
+[2023-12-02 12:49:55,941] INFO _log() L96   127.0.0.1 - - [02/Dec/2023 12:49:55] "[33mGET /equipamentos?nome=B HTTP/1.1[0m" 404 - - call_trace=C:\Users\Felipe\Desktop\MVP4\api\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-02 12:49:58,950] INFO _log() L96   127.0.0.1 - - [02/Dec/2023 12:49:58] "POST /equipamento HTTP/1.1" 200 - - call_trace=C:\Users\Felipe\Desktop\MVP4\api\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-02 12:49:58,985] INFO _log() L96   127.0.0.1 - - [02/Dec/2023 12:49:58] "GET /equipamentos HTTP/1.1" 200 - - call_trace=C:\Users\Felipe\Desktop\MVP4\api\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-02 12:51:13,746] INFO _log() L96   127.0.0.1 - - [02/Dec/2023 12:51:13] "GET /equipamentos HTTP/1.1" 200 - - call_trace=C:\Users\Felipe\Desktop\MVP4\api\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-02 12:51:21,548] INFO _log() L96   127.0.0.1 - - [02/Dec/2023 12:51:21] "GET /equipamentos HTTP/1.1" 200 - - call_trace=C:\Users\Felipe\Desktop\MVP4\api\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-02 12:51:48,199] INFO _log() L96   127.0.0.1 - - [02/Dec/2023 12:51:48] "GET /equipamentos?nome=D HTTP/1.1" 200 - - call_trace=C:\Users\Felipe\Desktop\MVP4\api\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-02 12:51:48,216] INFO _log() L96   127.0.0.1 - - [02/Dec/2023 12:51:48] "POST /equipamento HTTP/1.1" 200 - - call_trace=C:\Users\Felipe\Desktop\MVP4\api\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-02 12:51:49,067] INFO _log() L96   127.0.0.1 - - [02/Dec/2023 12:51:49] "GET /equipamentos HTTP/1.1" 200 - - call_trace=C:\Users\Felipe\Desktop\MVP4\api\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-02 12:52:06,997] INFO _log() L96   127.0.0.1 - - [02/Dec/2023 12:52:06] "GET /equipamentos?nome=E HTTP/1.1" 200 - - call_trace=C:\Users\Felipe\Desktop\MVP4\api\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-02 12:52:07,016] INFO _log() L96   127.0.0.1 - - [02/Dec/2023 12:52:07] "POST /equipamento HTTP/1.1" 200 - - call_trace=C:\Users\Felipe\Desktop\MVP4\api\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-02 12:52:07,866] INFO _log() L96   127.0.0.1 - - [02/Dec/2023 12:52:07] "GET /equipamentos HTTP/1.1" 200 - - call_trace=C:\Users\Felipe\Desktop\MVP4\api\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-02 12:52:34,523] INFO _log() L96   127.0.0.1 - - [02/Dec/2023 12:52:34] "GET /equipamentos?nome=H HTTP/1.1" 200 - - call_trace=C:\Users\Felipe\Desktop\MVP4\api\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-02 12:52:34,539] INFO _log() L96   127.0.0.1 - - [02/Dec/2023 12:52:34] "POST /equipamento HTTP/1.1" 200 - - call_trace=C:\Users\Felipe\Desktop\MVP4\api\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-02 12:52:35,230] INFO _log() L96   127.0.0.1 - - [02/Dec/2023 12:52:35] "GET /equipamentos HTTP/1.1" 200 - - call_trace=C:\Users\Felipe\Desktop\MVP4\api\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-02 12:52:38,908] INFO _log() L96   127.0.0.1 - - [02/Dec/2023 12:52:38] "OPTIONS /equipamento?name=H HTTP/1.1" 200 - - call_trace=C:\Users\Felipe\Desktop\MVP4\api\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-02 12:52:38,920] INFO _log() L96   127.0.0.1 - - [02/Dec/2023 12:52:38] "DELETE /equipamento?name=H HTTP/1.1" 200 - - call_trace=C:\Users\Felipe\Desktop\MVP4\api\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-02 12:52:41,554] INFO _log() L96   127.0.0.1 - - [02/Dec/2023 12:52:41] "OPTIONS /equipamento?name=E HTTP/1.1" 200 - - call_trace=C:\Users\Felipe\Desktop\MVP4\api\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-02 12:52:41,565] INFO _log() L96   127.0.0.1 - - [02/Dec/2023 12:52:41] "DELETE /equipamento?name=E HTTP/1.1" 200 - - call_trace=C:\Users\Felipe\Desktop\MVP4\api\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-02 12:52:44,830] INFO _log() L96   127.0.0.1 - - [02/Dec/2023 12:52:44] "OPTIONS /equipamento?name=D HTTP/1.1" 200 - - call_trace=C:\Users\Felipe\Desktop\MVP4\api\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-02 12:52:44,843] INFO _log() L96   127.0.0.1 - - [02/Dec/2023 12:52:44] "DELETE /equipamento?name=D HTTP/1.1" 200 - - call_trace=C:\Users\Felipe\Desktop\MVP4\api\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-02 12:52:52,896] INFO _log() L96   127.0.0.1 - - [02/Dec/2023 12:52:52] "OPTIONS /equipamento?name=B HTTP/1.1" 200 - - call_trace=C:\Users\Felipe\Desktop\MVP4\api\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-02 12:52:52,908] INFO _log() L96   127.0.0.1 - - [02/Dec/2023 12:52:52] "DELETE /equipamento?name=B HTTP/1.1" 200 - - call_trace=C:\Users\Felipe\Desktop\MVP4\api\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-02 12:55:12,924] INFO _log() L224  [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.15.185:5000 - call_trace=C:\Users\Felipe\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-12-02 12:55:12,925] INFO _log() L224  [33mPress CTRL+C to quit[0m - call_trace=C:\Users\Felipe\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-12-02 12:55:12,927] INFO _log() L224   * Restarting with stat - call_trace=C:\Users\Felipe\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\_internal.py L224 
+[2023-12-02 12:55:16,640] WARNING get_equipamentos() L50   Não há equipamentos cadastrados na base :/ - call_trace=C:\Users\Felipe\Desktop\MVP4\api\app.py L50  
+[2023-12-02 12:55:16,641] INFO _log() L96   127.0.0.1 - - [02/Dec/2023 12:55:16] "[33mGET /equipamentos HTTP/1.1[0m" 404 - - call_trace=C:\Users\Felipe\Desktop\MVP4\api\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-02 12:55:33,854] WARNING get_equipamentos() L50   Não há equipamentos cadastrados na base :/ - call_trace=C:\Users\Felipe\Desktop\MVP4\api\app.py L50  
+[2023-12-02 12:55:33,855] INFO _log() L96   127.0.0.1 - - [02/Dec/2023 12:55:33] "[33mGET /equipamentos?nome=CX HTTP/1.1[0m" 404 - - call_trace=C:\Users\Felipe\Desktop\MVP4\api\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-02 12:55:33,872] INFO _log() L96   127.0.0.1 - - [02/Dec/2023 12:55:33] "POST /equipamento HTTP/1.1" 200 - - call_trace=C:\Users\Felipe\Desktop\MVP4\api\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-02 12:55:34,669] INFO _log() L96   127.0.0.1 - - [02/Dec/2023 12:55:34] "GET /equipamentos HTTP/1.1" 200 - - call_trace=C:\Users\Felipe\Desktop\MVP4\api\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-02 12:55:41,772] INFO _log() L96   127.0.0.1 - - [02/Dec/2023 12:55:41] "GET /equipamentos?nome=RF HTTP/1.1" 200 - - call_trace=C:\Users\Felipe\Desktop\MVP4\api\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-02 12:55:41,835] INFO _log() L96   127.0.0.1 - - [02/Dec/2023 12:55:41] "POST /equipamento HTTP/1.1" 200 - - call_trace=C:\Users\Felipe\Desktop\MVP4\api\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-02 12:55:42,500] INFO _log() L96   127.0.0.1 - - [02/Dec/2023 12:55:42] "GET /equipamentos HTTP/1.1" 200 - - call_trace=C:\Users\Felipe\Desktop\MVP4\api\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-02 12:55:49,142] INFO _log() L96   127.0.0.1 - - [02/Dec/2023 12:55:49] "GET /equipamentos?nome=AVA HTTP/1.1" 200 - - call_trace=C:\Users\Felipe\Desktop\MVP4\api\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-02 12:55:49,158] INFO _log() L96   127.0.0.1 - - [02/Dec/2023 12:55:49] "POST /equipamento HTTP/1.1" 200 - - call_trace=C:\Users\Felipe\Desktop\MVP4\api\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-02 12:55:49,926] INFO _log() L96   127.0.0.1 - - [02/Dec/2023 12:55:49] "GET /equipamentos HTTP/1.1" 200 - - call_trace=C:\Users\Felipe\Desktop\MVP4\api\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-02 12:55:54,420] INFO _log() L96   127.0.0.1 - - [02/Dec/2023 12:55:54] "OPTIONS /equipamento?name=AVA HTTP/1.1" 200 - - call_trace=C:\Users\Felipe\Desktop\MVP4\api\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-02 12:55:54,433] INFO _log() L96   127.0.0.1 - - [02/Dec/2023 12:55:54] "DELETE /equipamento?name=AVA HTTP/1.1" 200 - - call_trace=C:\Users\Felipe\Desktop\MVP4\api\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-02 12:55:57,106] INFO _log() L96   127.0.0.1 - - [02/Dec/2023 12:55:57] "OPTIONS /equipamento?name=RF HTTP/1.1" 200 - - call_trace=C:\Users\Felipe\Desktop\MVP4\api\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-02 12:55:57,116] INFO _log() L96   127.0.0.1 - - [02/Dec/2023 12:55:57] "DELETE /equipamento?name=RF HTTP/1.1" 200 - - call_trace=C:\Users\Felipe\Desktop\MVP4\api\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-05 19:54:49,350] INFO _log() L96   [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.15.185:5000 - call_trace=C:\Users\Felipe\Desktop\MVP4\env\Lib\site-packages\werkzeug\_internal.py L96  
+[2023-12-05 19:54:49,352] INFO _log() L96   [33mPress CTRL+C to quit[0m - call_trace=C:\Users\Felipe\Desktop\MVP4\env\Lib\site-packages\werkzeug\_internal.py L96  
