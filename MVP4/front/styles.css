@@ -1,0 +1,117 @@
+body,
+ul,
+li {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilos para o cabeçalho */
+header {
+    background-color: whitesmoke; /* Tonalidade mais suave */
+    text-align: center;
+    width: 100%;
+    padding: 20px 0; /* Maior espaçamento */
+}
+
+
+.title {
+    color: #333; /* Cor de texto mais legível */
+    width: 100%;
+    background-color: #4caf50; /* Cor mais suave */
+    padding: 10px 0; /* Ajuste do espaçamento */
+}
+
+.banner {
+    height: 175px; /* Defina a altura desejada */
+    overflow: hidden;
+    display: flex; /* Usar flexbox para centralizar */
+    align-items: center; /* Centralizar verticalmente */
+    justify-content: center; /* Centralizar horizontalmente */
+    margin-top: 20px; /* Espaçamento entre o título e o banner */
+}
+
+
+.banner img {
+    max-width: 100%; /* Garantir que a imagem não ultrapasse a largura do container */
+    max-height: 100%; /* Garantir que a imagem não ultrapasse a altura do container */
+    object-fit: contain; /* Manter a proporção e ajustar a imagem ao container */
+}
+
+
+/* Estilos para a seção de adicionar novo item */
+.newItem {
+    background-color: #f9f9f9; /* Fundo mais claro */
+    padding: 20px; /* Redução do espaçamento */
+    color: #333; /* Cor de texto mais legível */
+    text-align: center; /* Centralização do conteúdo */
+}
+
+.addBtn {
+    padding: 8px 20px; /* Ajuste do espaçamento do botão */
+    background-color: #4caf50; /* Cor mais suave */
+    color: white;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    border-radius: 5px;
+    border: none;
+}
+
+.addBtn:hover {
+    background-color: #2e7d32; /* Ajuste da cor no hover */
+}
+
+/* Estilos para a tabela */
+table {
+    width: 80%; /* Aumento da largura para melhor visualização */
+    margin: 20px auto; /* Centralização da tabela */
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid #ccc; /* Borda mais suave */
+    padding: 12px; /* Espaçamento uniforme */
+    font-size: 16px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2; /* Fundo mais suave para cabeçalho */
+}
+
+tr:nth-child(odd) {
+    background-color: #f9f9f9; /* Alternância suave de cores */
+}
+
+tr:hover {
+    background-color: #e0e0e0; /* Cor no hover */
+}
+
+/* Estilos para o ícone de exclusão */
+.close {
+    color: #f44336; /* Cor do ícone */
+    font-weight: bolder;
+    transition: color 0.3s ease; /* Transição suave da cor */
+    cursor: pointer;
+}
+
+.close:hover {
+    color: #d32f2f; /* Alteração de cor ao passar o mouse */
+    transform: scale(1.2); /* Aumento sutil do tamanho ao passar o mouse */
+}
+
+/* Estilos para o ícone de atualização, se houver */
+.update {
+    color: #000000;
+    font-weight: bolder;
+    transition: color 0.3s ease; /* Transição suave da cor */
+    cursor: pointer;
+}
+
+.update:hover {
+    color: #333333; /* Alteração de cor ao passar o mouse */
+    transform: scale(1.1); /* Redução sutil do tamanho ao passar o mouse */
+}
