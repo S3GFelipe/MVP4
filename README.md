@@ -55,7 +55,8 @@ temperatura do processo [Convertida de K para °C]: gerada usando um processo de
 velocidade de rotação [rpm]: calculada a partir de uma potência de 2860 W, sobreposta a um ruído normalmente distribuído;
 
 torque [Nm]: os valores de torque são normalmente distribuídos em torno de 40 Nm com SD = 10 Nm e sem valores negativos;
-desgaste da ferramenta [min]: As variantes de qualidade H/M/L adicionam 5/3/2 minutos de desgaste da ferramenta à ferramenta utilizada no processo.
+
+desgaste da ferramenta [min]: As variantes de qualidade H/M/L adicionam 5/3/2 minutos de desgaste da ferramenta à ferramenta utilizada no processo;
 
 
 
