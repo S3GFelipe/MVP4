@@ -30,4 +30,8 @@ python -m venv env
 
 Acesso da documentação via [http://localhost:5000/#/](http://localhost:5000/#/) no navegador 
 
+Sobre o Notebook para treinamento do modelo
+
+O arquivo nomeado MVP4_FELIPE_ANDRADE_Final.ipynb foi gerado através do Google Colab
+
 
