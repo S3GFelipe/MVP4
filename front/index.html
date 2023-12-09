@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="styles.css">
+
+    <title>AI Diabetes System</title>
+    <link rel="icon" href="img/home_logo.jpg" type="image/png">
+</head>
+
+<body>
+     <!-- Cabeçalho de informações do sistema -->
+    <header>
+        <div class="title">
+            <h2>Sistema de IA para avaliar a necessidade de manutenção preventiva de maquinários industriais</h2>
+            <br>
+            <p>Com base nos parâmetros atuais de utilização do equipamento, o modelo de Machine Learning faz uma predição.</p>
+            <p>Para isso, basta preencher os campos abaixo com os dados do equipamento e clicar em "Diagnosticar".</p>
+        </div>
+        <div class="banner">
+            <img src="img/home.jpg">
+        </div> 
+    </header>
+
+     <!-- Opções para adicionar um novo item -->
+     
+    <section class="newItem">
+        <input type="text" id="newInput" placeholder="Nome">
+        <input type="text" id="newTemp" placeholder="Temperatura Ambiente">
+        <input type="text" id="newProc" placeholder="Temperatura do Processo">
+        <input type="text" id="newVel" placeholder="Velocidade de Rotação">
+        <input type="text" id="newTor" placeholder="Torque">
+        <input type="text" id="newDes" placeholder="Desgaste da Ferramenta">
+        <span onclick="newItem()" class="addBtn">Diagnosticar</span>
+    </section>
+
+ 
+
+    <!-- Tabela com items existentes -->
+    <section class="items">
+        <table id="myTable">
+            <tr>
+                <th>Nome</th>
+                <th>Temperatura do Sistema</th>
+                <th>Temperatura do Processo</th>
+                <th>Velocidade de Rotação</th>
+                <th>Torque</th>
+                <th>Desgaste da Ferramenta</th>
+                <th>Necessita Manutenção</th>
+                <th><img src="https://cdn-icons-png.flaticon.com/512/126/126468.png" width="15" height="15"></th>
+                
+            </tr>
+        </table>
+    </section>
+
+    <script src="scripts.js"></script>
+</body>
+
+</html>
+
+
