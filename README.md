@@ -58,7 +58,7 @@ Torque [Nm]: os valores de torque são normalmente distribuídos em torno de 40 
 
 Desgaste da ferramenta [min]: As variantes de qualidade H/M/L adicionam 5/3/2 minutos de desgaste da ferramenta à ferramenta utilizada no processo;
 
-#Link para acessar o vídeo explicativo desse projeto
+# Link para acessar o vídeo explicativo desse projeto
 
 https://youtu.be/ViexiNNSMck
 
