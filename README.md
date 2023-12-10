@@ -56,11 +56,12 @@ Velocidade de rotação [rpm]: calculada a partir de uma potência de 2860 W, so
 
 Torque [Nm]: os valores de torque são normalmente distribuídos em torno de 40 Nm com SD = 10 Nm e sem valores negativos;
 
+Desgaste da ferramenta [min]: As variantes de qualidade H/M/L adicionam 5/3/2 minutos de desgaste da ferramenta à ferramenta utilizada no processo;
+
 #Link para acessar o vídeo explicativo desse projeto
 
 https://youtu.be/ViexiNNSMck
 
-Desgaste da ferramenta [min]: As variantes de qualidade H/M/L adicionam 5/3/2 minutos de desgaste da ferramenta à ferramenta utilizada no processo;
 
 
 
